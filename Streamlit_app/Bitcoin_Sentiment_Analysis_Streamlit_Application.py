@@ -13,7 +13,7 @@ from textblob import TextBlob
 import re
 
 # App title and description
-st.title("Tweet Sentiment Analyzer")
+st.title("Tweet Sentiment Analyzer by Sahil Singh")
 st.write("Upload your tweet dataset (CSV) to analyze sentiment. Select the column containing tweet text, and optionally a date column for time-series analysis.")
 
 # File uploader
