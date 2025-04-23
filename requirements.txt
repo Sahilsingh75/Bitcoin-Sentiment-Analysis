@@ -1,4 +1,7 @@
-numpy
+streamlit
 pandas
+numpy
 matplotlib
+seaborn
 textblob
+wordcloud
